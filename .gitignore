@@ -1,2 +1,13 @@
 venv/
 .env
+
+
+
+
+
+
+#ignore perso Modibo
+ais.py
+flight_donne.py
+script.py
+position.py
